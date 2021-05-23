@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Favorable Course</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_setings">SetingsActivity</string>
+    <string name="timer_setting">Частота обновления данных</string>
+</resources>
